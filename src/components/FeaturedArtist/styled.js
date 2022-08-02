@@ -88,6 +88,8 @@ export const Card = styled.div`
 
   background-color: #272d37;
 
+  cursor: pointer;
+
   &:hover ${CardImg} {
     transition: 0.3s;
     filter: blur(2px);
