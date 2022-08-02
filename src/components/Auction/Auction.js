@@ -6,7 +6,6 @@ import {
   Wrapper,
 } from "./styled";
 import { AuctionCard } from "./components";
-// import { Card } from "../../common";
 
 import auction_img1 from "../../assets/auction_img1.png";
 import auction_img2 from "../../assets/auction_img2.png";

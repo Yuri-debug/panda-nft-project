@@ -12,6 +12,7 @@ import {
   HeaderWrapper,
   Wrapper,
 } from "./styled";
+
 import artist_img1 from "../../assets/artist_img1.png";
 import artist_img2 from "../../assets/artist_img2.png";
 import artist_img3 from "../../assets/artist_img3.png";
